@@ -74,6 +74,6 @@ Customer churn directly impacts revenue and long-term business growth. The objec
 
 **Shaik Sadiya**
 
-Aspiring Data Analyst
+Data Analyst
 
 Power BI | SQL | Excel | DAX | Power Query

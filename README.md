@@ -37,7 +37,7 @@ Customer churn directly impacts revenue and long-term business growth. The objec
 
 ## Dashboard Preview
 
-![Customer Churn Analysis Dashboard](./05%20SCREENSHOTS/POWERBI/Customer%20Churn%20Analysis%20Dashboard%20PBI.png)
+Customer Churn Intelligence Dashboard/05 SCREENSHOTS/POWERBI/Customer Churn Analysis Dashboard PBI.png
 ## Key KPIs
 
 - Total Customers
